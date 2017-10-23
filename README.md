@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -44,4 +44,3 @@ Vulnerability #2: * Cross-Site Request Forgery (CSRF) - By creating a custom HTM
 
 ## Notes
 
-Describe any challenges encountered while doing the work
