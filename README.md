@@ -17,8 +17,12 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: * SQL Injection (SQLi) - When logged in, on the staff menu, appending the blind injection ' OR SLEEP(5)=0--' on the end of the url showing a specific salesperson, causes the server to wait.
+![Lab 1 gif](https://github.com/justinw238/codepath_8_jlw15/blob/master/sqli.gif)
 
 Vulnerability #2: * Session Hijacking/Fixation
+![Lab 1 gif](https://github.com/justinw238/codepath_8_jlw15/blob/master/hijack.gif)
+
+
 
 
 ## Green
